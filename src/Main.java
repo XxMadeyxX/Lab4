@@ -5,6 +5,7 @@ public class Main {
     Scanner scnr = new Scanner(System.in);
 
     System.out.println("Welcome to this Computer!");
+    System.out.println("");
     System.out.println("This program is designed to complete simple addition of 2 numbers.");
     System.out.println("");
     System.out.println("Please enter you first number: ");
